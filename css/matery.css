@@ -431,7 +431,7 @@ header .side-nav .social-link {
     }
 }
 
-/*@-webkit-keyframes scroll-down {
+@-webkit-keyframes scroll-down {
     0% {
         opacity: 0.4;
         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
@@ -453,7 +453,7 @@ header .side-nav .social-link {
         top: 0;
     }
 }
-*/
+
 
 @-o-keyframes scroll-down {
     0% {
@@ -594,7 +594,7 @@ header .go-back i {
     font-weight: 400;
 }
 
-@-webkit-keyframes rainbow {
+/*@-webkit-keyframes rainbow {
 
     0%,
     100% {
@@ -724,6 +724,7 @@ header .go-back i {
 .dplayer-video {
     box-shadow: 0 5px 20px 0 rgba(0, 0, 0, .2), 0 10px 20px -12px rgba(0, 0, 0, .5) !important;
 }
+
 
 #recommend-sections {
     margin-top: -30px;
